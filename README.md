@@ -1,7 +1,4 @@
 # K. Jeevan Kumar - Portfolio
-
-![Portfolio Preview Showcase](https://kjeevankumar.github.io/kjeevankumar.g1/og-image.png)
-
 A modern, responsive, and fully-featured personal portfolio website showcasing my projects, skills, and experience as an AI/ML Developer and Full Stack Developer. 
 
 **[🔗 View Live Portfolio](https://kjeevankumar.github.io/kjeevankumar.g1/)**
