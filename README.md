@@ -82,6 +82,6 @@ The optimized files will be generated in the `dist/` directory.
 ## 🔗 Connect with me
 
 - **GitHub**: [@kjeevankumar](https://github.com/kjeevankumar)
-- **LinkedIn**: [K. Jeevan Kumar](https://linkedin.com/in/kjeevankumar)
+- **LinkedIn**: [K. Jeevan Kumar](www.linkedin.com/in/k-jeevan-kumar-5333b32b8)
 - **Portfolio**: [kjeevankumar.g1](https://kjeevankumar.github.io/kjeevankumar.g1/)
 
